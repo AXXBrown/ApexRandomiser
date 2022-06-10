@@ -1,0 +1,12 @@
+body{
+    font-family:Helvetica;
+    margin: 0;
+}
+
+#background
+{
+    background-image: url(https://pbs.twimg.com/media/FLqCwUXXMAQ8NBo?format=jpg&name=4096x4096);
+    background-repeat: no-repeat;
+    height: 100vh;      
+}
+
