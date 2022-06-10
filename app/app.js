@@ -63,14 +63,14 @@ $scope.legends=[
     },
     {
         name: "Wraith",
-        type: "Assult",
+        type: "Assault",
         picked: false,
         thumb:"content/img/wraith.png",
         pickNo: Math.random()
     },
     {
         name: "Bangalore",
-        type: "Assult",
+        type: "Assault",
         picked: false,
         thumb:"content/img/bangalore.png",
         pickNo: Math.random()
@@ -84,14 +84,14 @@ $scope.legends=[
     },
     {
         name: "Mirage",
-        type: "Assult",
+        type: "Assault",
         picked: false,
         thumb:"content/img/mirage.png",
         pickNo: Math.random()
     },
     {
         name: "Octane",
-        type: "Assult",
+        type: "Assault",
         picked: false,
         thumb:"content/img/octane.png",
         pickNo: Math.random()
@@ -112,7 +112,7 @@ $scope.legends=[
     },
     {
         name: "Revenant",
-        type: "Assult",
+        type: "Assault",
         picked: false,
         thumb:"content/img/revenant.png",
         pickNo: Math.random()
@@ -133,14 +133,14 @@ $scope.legends=[
     },
     {
         name: "Horizon",
-        type: "Assult",
+        type: "Assault",
         picked: false,
         thumb:"content/img/horizon.png",
         pickNo: Math.random()
     },
     {
         name: "Fuse",
-        type: "Assult",
+        type: "Assault",
         picked: false,
         thumb:"content/img/fuse.png",
         pickNo: Math.random()
@@ -161,14 +161,14 @@ $scope.legends=[
     },
     {
         name: "Ash",
-        type: "Assult",
+        type: "Assault",
         picked: false,
         thumb:"content/img/ash.png",
         pickNo: Math.random()
     },
     {
         name: "Mad Maggie",
-        type: "Assult",
+        type: "Assault",
         picked: false,
         thumb:"content/img/madmaggie.png",
         pickNo: Math.random()
